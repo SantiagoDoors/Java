@@ -1,5 +1,3 @@
-package com.mycompany.argpro4;
-
 /**
  *
  * @author santi
@@ -10,8 +8,8 @@ public class ArgPro4 {
     public static void main(String[] args) {
         int ingresos = 739, sup = 31, energia = 3331;
         if (ingresos < 738 && sup < 30 && energia < 3330){
-            
     }
+    
         
         
         

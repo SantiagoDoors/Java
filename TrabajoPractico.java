@@ -3,7 +3,7 @@
  * @author santi
  */
 
-public class ArgPro4 {
+public class TrabajoPractico {
 
     public static void main(String[] args) {
         int ingresos = 739, sup = 31, energia = 3331;
